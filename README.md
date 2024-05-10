@@ -21,5 +21,6 @@ JDBC (Java Database Connectivity) is a Java API for accessing relational databas
   2. Read: Retrieve records from the database.
   3. Update: Update existing records in the database.
   4. Delete: Delete records from the database.
+ 
  You can run each operation by executing the corresponding Java class located in the directory.
 
