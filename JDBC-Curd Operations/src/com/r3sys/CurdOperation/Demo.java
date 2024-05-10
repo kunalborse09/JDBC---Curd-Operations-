@@ -1,4 +1,4 @@
-package com.r3sys.db;
+package com.r3sys.CurdOperation;
 
 import java.util.Scanner;
 
