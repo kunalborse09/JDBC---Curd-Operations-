@@ -17,7 +17,7 @@ JDBC (Java Database Connectivity) is a Java API for accessing relational databas
 
 ## Usage
  This project contains the following CRUD operations:
-  **1. Create:** Insert a new record into the database.
+  **1.Create:** Insert a new record into the database.
   **2. Read:** Retrieve records from the database.
   **3. Update:** Update existing records in the database.
   **4. Delete:** Delete records from the database.
